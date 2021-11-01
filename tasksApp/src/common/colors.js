@@ -1,0 +1,16 @@
+export const colors = {
+  statusbar: '#012742',
+  backgroundInitial: '#053f77',
+  backgroundFinal: '#074885',
+  white: '#fff',
+  blueDark: '#074885',
+  blue: '#3b9eff',
+  blueLight: '#3d9be9',
+  red: '#d00',
+  error: '#f53030',
+  transparent: 'transparent',
+  textBold: '#41414d',
+  text: '#737380',
+  black: '#000',
+  backgroundInput: '#232129',
+};
