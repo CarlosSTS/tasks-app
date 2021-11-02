@@ -27,7 +27,7 @@ O app contém os seguintes módulos:
 ![Foto do App Dashboard](https://github.com/CarlosSTS/tasksApp/blob/master/images/dashboard.png)
 ![Foto do App detail](https://github.com/CarlosSTS/tasksApp/blob/master/images/detalhe.png)
 ![Foto do App search](https://github.com/CarlosSTS/tasksApp/blob/master/images/pesquisar.png)
-![Foto do App create](https://github.com/CarlosSTS/tasksApp/blob/master/images/cadastrar.png)
+![Foto do App create](https://github.com/CarlosSTS/tasksApp/blob/master/images/cadastro.png)
 
 ## MOBILE
 RODANDO O PROJETO MOBILE
