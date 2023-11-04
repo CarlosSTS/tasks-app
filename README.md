@@ -1,4 +1,4 @@
-# tasksApp  
+# tasks-app  
 
 1. Sistema focado no gerenciamento e compartilhamento de atividades e tarefas.
 2. A api trabalha com validações usando yup:
