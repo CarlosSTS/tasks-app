@@ -34,7 +34,7 @@ O app contém os seguintes módulos:
 
 <table>
 <tr>
-<td><img src="https://github.com/CarlosSTS/tasksApp/blob/master/images/detalhe.png" alt="Foto do App detail" width="360" /></td>
+<td><img src="https://github.com/CarlosSTS/tasksApp/blob/master/images/detail.png" alt="Foto do App detail" width="360" /></td>
 <td><img src="https://github.com/CarlosSTS/tasksApp/blob/master/images/pesquisar.png" alt="Foto do App search" width="360" /></td>
 <td><img src="https://github.com/CarlosSTS/tasksApp/blob/master/images/cadastro.png" alt="Foto do App create" width="360" /></td>
 </tr>
