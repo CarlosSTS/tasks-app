@@ -6,7 +6,7 @@ import routes from './routes';
 
 const app = express();
 
-mongoose.connect('mongodb+srv://tasks:c1a2r3s4@tasks.ifdez.mongodb.net/tasks?retryWrites=true&w=majority', {
+mongoose.connect('MONGODB_URL', {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
