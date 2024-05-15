@@ -26,17 +26,17 @@ O app contém os seguintes módulos:
 
 <table>
 <tr>
-<td><img src="https://github.com/CarlosSTS/tasksApp/blob/master/images/splash.png" alt="Foto do App splash" width="360" /></td>
-<td><img src="https://github.com/CarlosSTS/tasksApp/blob/master/images/login.png" alt="Foto do App login" width="360" /></td>
-<td><img src="https://github.com/CarlosSTS/tasksApp/blob/master/images/dashboard.png" alt="Foto do App Dashboard" width="360" /></td>
+<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Ftasks-app%2Fsplash.png?alt=media&token=bbba446f-fc8a-4e5e-a8c4-0ae5dee4e881" alt="Foto do App splash" width="360" /></td>
+<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Ftasks-app%2Flogin.png?alt=media&token=b02a30f0-79c9-4799-b091-605d56933395" alt="Foto do App login" width="360" /></td>
+<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Ftasks-app%2Fdashboard.png?alt=media&token=6bf35592-c3af-485f-be03-7d56447212fe" alt="Foto do App Dashboard" width="360" /></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td><img src="https://github.com/CarlosSTS/tasksApp/blob/master/images/detail.png" alt="Foto do App detail" width="360" /></td>
-<td><img src="https://github.com/CarlosSTS/tasksApp/blob/master/images/pesquisar.png" alt="Foto do App search" width="360" /></td>
-<td><img src="https://github.com/CarlosSTS/tasksApp/blob/master/images/cadastro.png" alt="Foto do App create" width="360" /></td>
+<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Ftasks-app%2Fdetail.png?alt=media&token=9945aea4-5544-4215-bead-dc11e557a0a4" alt="Foto do App detail" width="360" /></td>
+<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Ftasks-app%2Fpesquisar.png?alt=media&token=af0941d8-8033-4846-b28d-0fd6f441dbf3" alt="Foto do App search" width="360" /></td>
+<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Ftasks-app%2Fcadastro.png?alt=media&token=d940ca03-5fad-483c-9283-93af585667e8" alt="Foto do App create" width="360" /></td>
 </tr>
 </table>
 
@@ -44,7 +44,7 @@ O app contém os seguintes módulos:
 
 RODANDO O PROJETO MOBILE
 
-- yarn install => para instalar Dependências do projeto
+- yarn install => para instalar dependências do projeto
 - yarn start => para inicializar o projeto
 - yarn android => para executar o projeto no emulador android
 - yarn ios => Para executar no emulador iOS
@@ -54,7 +54,7 @@ RODANDO O PROJETO MOBILE
 
 RODANDO O PROJETO BACKEND
 
-- yarn install => para instalar as Dependências do projeto
+- yarn install => para instalar as dependências do projeto
 - yarn start => para inicializar o projeto
 
 ## Feito por Carlos Ferreira
